@@ -31,4 +31,5 @@ print(numbers)
 
 ## 🔗 Navigation
 
-⬅️ [Previous → Chapter 5 - Dictionary & Sets](../Chapter%205%20-%20Dictionary%20&%20S
+⬅️ [Previous → Chapter 5 - Dictionary & Sets](../Chapter%205%20-%20Dictionary%20&%20Sets/)
+➡️ [Next → Chapter 6 - Condotional Expression](../Chapter%206%20-%20Condotional%20Expression/)
